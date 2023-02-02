@@ -7,3 +7,6 @@
 [submodule "engine_0x88"]
 	path = engine_0x88
 	url = https://github.com/lookingcoolonavespa/crochess_engine_0x88
+[submodule "js-api"]
+	path = js-api
+	url = https://github.com/lookingcoolonavespa/crochess-api

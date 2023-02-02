@@ -12,6 +12,6 @@ croChess is a free online chess game server that lets you play against your frie
 
 The [frontend](https://github.com/lookingcoolonavespa/crochess-frontend-react) is written in in Typescript, runs on React, and uses Sass to generate Css.
 
-Pure chess logic is contained in the "js-api" directory.
+Pure [chess logic](https://github.com/lookingcoolonavespa/crochess-api) is written in Typescript.
 
 All games are stored on Supabase.
