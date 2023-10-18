@@ -10,10 +10,10 @@ live: http://bit.ly/3l475me
 
 croChess is a free online chess game server that lets you play against your friends in realtime.
 
-[croChess-backend](https://github.com/lookingcoolonavespa/crochess_java_backend) is written in Typescript, runs in Java, and relies on the Spring Boot framework.
+[croChess-backend](https://github.com/lookingcoolonavespa/crochess_java_backend) is written in Golang and uses Postgesql as its database.
 
-The [frontend](https://github.com/lookingcoolonavespa/crochess-frontend-react) is written in in Typescript, runs on React, and uses Sass to generate Css.
+The [frontend](https://github.com/lookingcoolonavespa/crochess-frontend-react) is written in Typescript, built on Solidjs, and uses Sass to generate Css.
 
-Pure [chess logic](https://github.com/lookingcoolonavespa/crochess-api) is written in Typescript.
+Pure [chess logic](https://github.com/lookingcoolonavespa/crochess-api) is written in Rust.
 
 All games are stored on Supabase.
