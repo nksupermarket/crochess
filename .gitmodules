@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:nksupermarket/crochess-solid.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:nksupermarket/go_crochess_backend.git
+[submodule "engine"]
+	path = engine
+	url = git@github.com:nksupermarket/rust_engine.git
