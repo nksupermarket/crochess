@@ -1,6 +1,6 @@
 # crochess
 
-live: http://bit.ly/3l475me
+[LIVE](https://nksupermarket.github.io/crochess-solid/#/)
 
 ![screenshot of active game](https://i.postimg.cc/V5QpLXZX/Tue-Oct-17-03-49-36-PM-PDT-2023.png)
 
